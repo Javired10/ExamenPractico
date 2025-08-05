@@ -8,8 +8,8 @@ Este proyecto es una versión en consola del clásico juego **Buscaminas**, impl
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/BuscaMinas.git
-   cd BuscaMinas
+   git clone https://github.com/Javired10/ExamenPractico.git
+   cd ExamenPractico
    ```
 
 2. Abre el proyecto en **IntelliJ IDEA** o tu IDE preferido.
